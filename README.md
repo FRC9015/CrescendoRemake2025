@@ -1,0 +1,1 @@
+New version of code from the FRC 2024 season, Crescendo. This code was remade to work with WPILIB 2025. This was a teaching project that the senior members of FRC 9015 gave to the new students. The senior members oversaw this project and taught them how to code the robot when they competed with it.
