@@ -190,7 +190,9 @@ public class TunerConstants {
             kBackRightSteerMotorId, kBackRightDriveMotorId, kBackRightEncoderId, kBackRightEncoderOffset,
             kBackRightXPos, kBackRightYPos, kInvertRightSide, kBackRightSteerMotorInverted, kBackRightEncoderInverted
         );
-
+        public static class LEDConstants {
+            public static final int candleID1 = 36;
+        }
     /**
      * Creates a CommandSwerveDrivetrain instance.
      * This should only be called once in your robot program,.
